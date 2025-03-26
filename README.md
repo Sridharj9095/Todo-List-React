@@ -24,7 +24,7 @@ A simple and modern Todo List application built with React, Vite, and TailwindCS
 
 1. Clone the repository:
 
-    git clone https://github.com/yourusername/todo-list-react-vite-tailwindcss.
+    git clone https://github.com/Sridharj9095/Todo-List-React.
 
 2. Navigate into the project directory:
 
